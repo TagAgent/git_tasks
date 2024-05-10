@@ -1,3 +1,3 @@
-SECRET_TOKEN = "some-secret-value"
+SECRET_TOKEN = "very-secret-password"
 
 is_active = True
