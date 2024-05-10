@@ -1,3 +1,3 @@
-from local_settings import SECRET_TOKEN
+import local_settings
 
-print(SECRET_TOKEN[:3])
+print(local_settings.SECRET_TOKEN[:3])
