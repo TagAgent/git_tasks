@@ -8,7 +8,7 @@ class Rectangle:
         return result
 
     def calculate_perimetr(self):
-        result = self.height * 2 + self.width * 2
+        result = (self.height + self.width) * 2
         return result
 
 r1 = Rectangle(height_pm=4 ,width_pm=5)
