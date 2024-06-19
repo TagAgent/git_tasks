@@ -1,0 +1,30 @@
+body {
+    background-color: #AF47D2
+}
+header {
+    background-color: #26355D;
+    color: #FFDB00;
+    text-align: center
+}
+main {
+    text-align: center
+}
+footer {
+    background-color: #26355D;
+    color: #FFDB00;
+    text-align: center
+}
+ul {
+    list-style-type: none;
+    padding = 0px;
+}
+li {
+    background-color: #FF8F00
+}
+img {
+    height: 300px
+}
+button {
+    background-color: green;
+    color: white;
+}
